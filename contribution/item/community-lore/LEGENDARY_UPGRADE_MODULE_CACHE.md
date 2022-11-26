@@ -1,1 +1,3 @@
-The Upgrade Modual Cache, a simple device with a multitude of potential uses. Its quite lite and fairly small in size. You need a special 3d printer to be able to use it. You know that it provides a simple yet effective way to enhance your weapons.
+At first glance, the Legendary Upgrade Modual Cache seems no different from the sea of other caches collected from the depths of dungeons–a simple device with a multitude of potential uses, lite and fairly small in size. However, for the trained eye, the delicate wiring and fuchsia glow emanating from the underside of the cache tells a different story. Without a doubt, whatever is stored in this cache can bring great power to your equipment.
+
+"Haven't come across one of these in some time–heck, it's been so long that I almost forgot **[REDACTED]** once produced these! Here, if you come across any more of these rare babies, remember to save them until you have the skills to produce higher level equipment."
